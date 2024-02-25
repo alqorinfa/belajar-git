@@ -3,4 +3,8 @@ makanan ak:
 1. Kwetiaw
 2. Nasi Goreng
 3. mie
+<<<<<<< HEAD
 4. terong
+=======
+4. geprek
+>>>>>>> feat/veggies
